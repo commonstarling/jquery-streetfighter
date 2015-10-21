@@ -47,3 +47,20 @@ body {
 	top: 167px;
 	left: 520px;
 }
+.main .how-to {
+	color: black;
+	font-family: Comic Sans MS;
+	font-size: 100px;
+	width: 600px;
+	margin-top: -400px;
+	margin-left: 550px;
+}
+.main .how-to p {
+	width: 50%;
+	color: black;
+	font-size: 30px;
+	line-height: 45px;
+}
+.main .how-to p + p {
+	margin-left: 275px;
+}
